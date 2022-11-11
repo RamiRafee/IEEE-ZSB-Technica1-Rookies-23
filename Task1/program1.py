@@ -1,0 +1,6 @@
+print("INPUT:")
+x=int(input())
+y=int(input())
+print("OUTPUT:")
+print(x*y)
+print(2*(x+y))
