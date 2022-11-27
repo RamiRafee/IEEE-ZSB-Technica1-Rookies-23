@@ -29,7 +29,7 @@ sorting the second 2 in detail:-->
 1,2,2,8,9,10,50,4
 """
 """
-A stable algorithm is an algorithm that sorts the number in the same order that they appeared in
+A stable algorithm is an algorithm that sorts the numbers in the same order that they appeared in
 eg:
     (1),5,3,0,((1)) ------>> after sorting ------->> 0,(1),((1)),3,5
 Insertion sort is a stable algorithm as we clearly see from the example written in the code the second 2
