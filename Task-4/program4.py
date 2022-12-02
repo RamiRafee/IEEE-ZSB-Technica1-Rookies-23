@@ -19,6 +19,8 @@ def add(arr:list,n:int):
         add(arr,n-1)
         return
 add(arr,len(arr))
+if(arr[0]!=0):
+    print(arr[0],end=" ")
 for i in range(1,len(arr)):
     print(arr[i],end=" ")
     
